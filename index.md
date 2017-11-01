@@ -1,10 +1,13 @@
-## education
+## Education
 
-I'm currently a PhD student at aarhus university, and I started in august 2017, under [Claudio Orlandi]() and [Ivan Damgård](). (They are both infinitely cooler than me.)
+I'm currently a PhD student under 
+[Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). (They are both infinitely 
+cooler than me.) I started in august 2017.
 
 In its most succinct form, my education history looks like this:
-- (2012 - 2015) BSc in mathematics from the University of Manchester,
-- (2015 - 2016) MSc in infosec from UCL.
+- 2012 - 2015: BSc in mathematics from the University of Manchester,
+- 2015 - 2016: MSc in infosec from UCL,
+- 2017 - now: PhD in cryptography at Aarhus University.
 
 My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on stealth address key management techniques and a paper introducing a ring signature mixer for ethereum, which also included implementing Groth-Kohlweiss 
 one out of many proofs and sublinear ring signatures. It also led to me learning about and then implementing other fun things 
@@ -19,14 +22,14 @@ scholarship to cover my entire tuition fees. I miraculously was offered both and
 introduced to asm and realised HTML isn't actually even a programming language and I have been fully submerged in the world of computer science ever since :)
 
 
-## research interests
+## Research interests
 
 I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
 (think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
 pessimistic, the world). 
 
 
-## teaching
+## Teaching
 
 I've taught the following:
 - CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
