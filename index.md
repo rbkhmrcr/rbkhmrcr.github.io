@@ -1,6 +1,7 @@
 ## Hello
 
 <img src="/garlicbread.jpg" width="300">
+
 This is me and some garlic bread.
 
 ## Education
@@ -15,7 +16,7 @@ In its most succinct form, my education history looks like this:
 - 2017 - now: PhD in cryptography at Aarhus University.
 
 My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and a paper introducing a ring signature mixer for ethereum. This also included me implementing Groth-Kohlweiss 
-one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to me learning about and then implementing other [fun](https://github.com/rmercer93/p2prng) [things](https://github.com/rmercer93/BLS2) 
+one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to me learning about and then implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
 on Ethereum and (quasi) Turing-complete blockchains in general, and led me to start supervising [my favourite intern](https://github.com/jakegsy/) 
 for the Ethereum Foundation. We talk about random beacons a lot and try to see what is possible in a world of open and 
 permissionless and public computation.
