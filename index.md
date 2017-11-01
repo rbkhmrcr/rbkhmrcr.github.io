@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="/garblicbread.jpg" width="300">
+<img src="/garlicbread.jpg" width="300">
 This is me and some garlic bread.
 
 ## Education
