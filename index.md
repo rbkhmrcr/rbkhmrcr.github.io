@@ -1,6 +1,7 @@
 ## Hello
 
-![Me and some garlic bread](/22637584_461058444291755_3926843437151682560_n.jpg)
+<img src="/22637584_461058444291755_3926843437151682560_n.jpg" width="100">
+This is me and some garlic bread.
 
 ## Education
 
