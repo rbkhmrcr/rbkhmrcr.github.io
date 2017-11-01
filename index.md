@@ -1,6 +1,6 @@
 ## Hello
 
-<img src="/22637584_461058444291755_3926843437151682560_n.jpg" width="100">
+<img src="/22637584_461058444291755_3926843437151682560_n.jpg" width="500">
 This is me and some garlic bread.
 
 ## Education
