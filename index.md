@@ -1,12 +1,16 @@
+## Hello
+
+![Me and some garlic bread](/22637584_461058444291755_3926843437151682560_n.jpg)
+
 ## Education
 
 I'm currently a PhD student under 
 [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). (They are both infinitely 
-cooler than me.) I started in august 2017.
+cooler than me.) I started in August 2017.
 
 In its most succinct form, my education history looks like this:
-- 2012 - 2015: BSc in mathematics from the University of Manchester,
-- 2015 - 2016: MSc in infosec from UCL,
+- 2012 - 2015: BSc in mathematics at the University of Manchester,
+- 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
 
 My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and a paper introducing a ring signature mixer for ethereum. This also included me implementing Groth-Kohlweiss 
@@ -17,12 +21,13 @@ permissionless and public computation.
 
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
 was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being a 
-completely hilarious human. I thought I had mastered programming and so applied for my master's and an incredibly generous 
-scholarship to cover my entire tuition fees. I miraculously was offered both and thought I'd conquered the world. Then I was 
-introduced to asm and realised HTML isn't actually even a programming language and I have been fully submerged in the world of computer science ever since :)
+completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous 
+scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. Then I 
+was introduced to asm and realised HTML isn't actually even a programming language, and I have been fully 
+submerged in the world of computer science ever since :)
 
 
-## Research interests
+## Research Interests
 
 I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
 (think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
