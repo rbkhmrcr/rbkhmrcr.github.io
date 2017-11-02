@@ -34,9 +34,9 @@ submerged in the world of computer science ever since :)
 I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
 (think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
 pessimistic, the world). 
-- Stealth Address and Key Management Techniques in Blockchain Systems - Nicolas T. Courtois, Rebekah Mercer:  [ICISSP 2017](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566).
-- Poster: Towards Blockchain Transaction Privacy - Matthew Di Ferrante, Rebekah Mercer: [EuroS&P2017](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf).
-- Sarah Meiklejohn and Rebekah Mercer: Möbius: Trustless Tumbling for Transaction Privacy: [ePrint](https://eprint.iacr.org/2017/881).
+- [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) -  Nicolas T. Courtois, Rebekah Mercer.
+- [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) - Matthew Di Ferrante, Rebekah Mercer.
+- Möbius: Trustless Tumbling for Transaction Privacy ([ePrint](https://eprint.iacr.org/2017/881)) - Sarah Meiklejohn, Rebekah Mercer.
 
 
 ## Teaching
