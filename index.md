@@ -24,8 +24,8 @@ permissionless and public computation.
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
 was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being a 
 completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous 
-scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. Then I 
-was introduced to asm and realised HTML isn't actually even a programming language, and I have been fully 
+scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. I 
+was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been fully 
 submerged in the world of computer science ever since :)
 
 
