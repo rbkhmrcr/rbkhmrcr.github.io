@@ -46,4 +46,4 @@ My published research includes the following:
 I've taught the following:
 - CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
 - CFG London general summer intensive - HTML/CSS/JavaScript/python (summer 2017)
-- machine learning - at aarhus university (fall 2017)
+- Bachelor's level Machine Learning - at Aarhus University (fall 2017)
