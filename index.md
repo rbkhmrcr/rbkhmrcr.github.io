@@ -29,11 +29,14 @@ was introduced to asm and realised HTML isn't actually even a programming langua
 submerged in the world of computer science ever since :)
 
 
-## Research Interests
+## Research
 
 I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
 (think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
 pessimistic, the world). 
+- Stealth Address and Key Management Techniques in Blockchain Systems - Nicolas T. Courtois, Rebekah Mercer:  [ICISSP 2017](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566)
+- Poster: Towards Blockchain Transaction Privacy - Matthew Di Ferrante, Rebekah Mercer [EuroS&P2017](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf)
+- Sarah Meiklejohn and Rebekah Mercer: Möbius: Trustless Tumbling for Transaction Privacy. [To appear](https://eprint.iacr.org/2017/881)
 
 
 ## Teaching
