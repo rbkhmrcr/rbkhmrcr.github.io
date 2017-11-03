@@ -19,8 +19,7 @@ My master's thesis was based on privacy in cryptocurrencies, and resulted in a p
 one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss 
 one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
 on ethereum and (quasi) Turing-complete blockchains in general, and led me to start supervising [my favourite intern](https://github.com/jakegsy/) 
-for the Ethereum Foundation. We talk about random beacons a lot and try to see what is possible in a world of open and 
-permissionless and public computation.
+for the Ethereum Foundation. 
 
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
 was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being a 
