@@ -41,7 +41,7 @@ on ethereum and (quasi) Turing-complete blockchains, and led me to start supervi
 I've taught the following:
 - CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
 - CFG London general summer intensive - HTML/CSS/JavaScript/python (summer 2017)
-- Bachelor's level Machine Learning - at Aarhus University (fall 2017)
+- Machine Learning - at Aarhus University (fall 2017)
 
 
 ## Research
