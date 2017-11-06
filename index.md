@@ -6,8 +6,8 @@ This is me and some garlic bread.
 
 ## Education
 
-I'm currently a PhD student under 
-[Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). (They are both infinitely 
+I'm currently a PhD student under
+[Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). (They are both infinitely
 cooler than me.) I started in August 2017.
 
 In its most succinct form, my education history looks like this:
@@ -15,24 +15,24 @@ In its most succinct form, my education history looks like this:
 - 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
 
-In roughly chronological order, fun facts about my education start with the fact I had to go to an all boys' school for my 
-final year of high school, because my school didn't teach physics or further maths. I was awarded a scholarship every 
-semester during my undergraduate degree, for academic acheivement. Maths is my safe place. My bachelor's project was about
+In roughly chronological order, fun facts about my education start with the fact I had to go to an all boys' school for my
+final year of high school, because my school didn't teach physics or further maths. I was awarded a scholarship every
+semester during my undergraduate degree, for academic achievement. Maths is my safe place. My bachelor's project was about
 random number generation. I used an online C compiler, it was so much fun.
 
-My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
-was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being 
-a completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous 
-scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. I 
-was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been 
+My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It
+was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being
+a completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous
+scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. I
+was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been
 fully submerged in the world of computer science ever since :)
 
-My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and 
-one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss 
-one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to 
-learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
-on ethereum and (quasi) Turing-complete blockchains, and led me to start supervising 
-[my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation. 
+My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and
+one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss
+one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to
+learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2)
+on ethereum and (quasi) Turing-complete blockchains, and led me to start supervising
+[my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation.
 
 
 
@@ -46,8 +46,8 @@ I've taught the following:
 
 ## Research
 
-I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
-(think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
+I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment
+(think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really
 pessimistic, the world). Sometimes I think about privacy preserving machine learning too.
 
 My published research includes the following:
