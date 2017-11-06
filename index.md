@@ -15,18 +15,24 @@ In its most succinct form, my education history looks like this:
 - 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
 
-My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and 
-one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss 
-one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
-on ethereum and (quasi) Turing-complete blockchains in general, and led me to start supervising [my favourite intern](https://github.com/jakegsy/) 
-for the Ethereum Foundation. 
+In chronological order, fun facts about my education start with the fact I had to go to an all boys' school for my final year 
+of high school, because my school wouldn't teach physics or further maths. Somehow I still won an award for doing the best in the year of my original (all girls' school). I was awarded a scholarship every semester during my undergraduate degree, for 
+academic acheivement. I like maths.
 
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
-was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being a 
-completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous 
+was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being 
+a completely hilarious human. I thought I had mastered programming and so applied for an MSc at UCL and an incredibly generous 
 scholarship to cover my entire MSc tuition fees. I miraculously was offered both and thought I'd conquered the world. I 
-was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been fully 
-submerged in the world of computer science ever since :)
+was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been 
+fully submerged in the world of computer science ever since :)
+
+My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and 
+one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss 
+one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to 
+learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
+on ethereum and (quasi) Turing-complete blockchains in general, and led me to start supervising 
+[my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation. 
+
 
 
 ## Research
