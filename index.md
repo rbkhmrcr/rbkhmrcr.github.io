@@ -15,9 +15,10 @@ In its most succinct form, my education history looks like this:
 - 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
 
-In chronological order, fun facts about my education start with the fact I had to go to an all boys' school for my final year 
-of high school, because my school wouldn't teach physics or further maths. Somehow I still won an award for doing the best in the year of my original (all girls' school). I was awarded a scholarship every semester during my undergraduate degree, for 
-academic acheivement. I like maths.
+In roughly chronological order, fun facts about my education start with the fact I had to go to an all boys' school for my 
+final year of high school, because my school didn't teach physics or further maths. I was awarded a scholarship every 
+semester during my undergraduate degree, for academic acheivement. Maths is my safe place. My bachelor's project was about
+random number generation. I used an online C compiler, it was so much fun.
 
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It 
 was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being 
@@ -30,21 +31,9 @@ My master's thesis was based on privacy in cryptocurrencies, and resulted in a p
 one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss 
 one out of many proofs and sublinear ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to 
 learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2) 
-on ethereum and (quasi) Turing-complete blockchains in general, and led me to start supervising 
+on ethereum and (quasi) Turing-complete blockchains, and led me to start supervising 
 [my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation. 
 
-
-
-## Research
-
-I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
-(think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
-pessimistic, the world). 
-
-My published research includes the following:
-- [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) -  with Nicolas T. Courtois.
-- [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) - with Matthew Di Ferrante.
-- [Möbius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881) - with Sarah Meiklejohn.
 
 
 ## Teaching
@@ -53,3 +42,16 @@ I've taught the following:
 - CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
 - CFG London general summer intensive - HTML/CSS/JavaScript/python (summer 2017)
 - Bachelor's level Machine Learning - at Aarhus University (fall 2017)
+
+
+## Research
+
+I mostly think about privacy, and especially executing/computing functions privately while in a fully adversarial environment 
+(think dishonest majority and active adversaries, or alternatively a blockchain environment, or if you're feeling really 
+pessimistic, the world). Sometimes I think about privacy preserving machine learning too.
+
+My published research includes the following:
+- [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) -  with Nicolas T. Courtois.
+- [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) - with Matthew Di Ferrante.
+- [Möbius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881) - with Sarah Meiklejohn.
+
