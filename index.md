@@ -18,11 +18,10 @@ In its most succinct form, my education history looks like this:
 #### Fun facts, in reverse chronological order
 
 My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and
-one introducing a ring signature mixer for ethereum. This included implementing Groth-Kohlweiss
-one out of many proofs and (log sized) ring signatures ([here](https://github.com/rmercer93/gk-zerocoin)). It also led to
-learning about and implementing [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2)
-on ethereum and (practically) Turing-complete blockchains, and led me to start supervising
-[my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation.
+one introducing a ring signature mixer for ethereum. This included implementing one out of many proofs ([here](https://github.com/rmercer93/gk-zerocoin)). It also led me to start 
+supervising [my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation, and implementing 
+[other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2)
+on ethereum and (practically) Turing-complete blockchains.
 
 My introduction to programming began in the third year of my BSc when I started a Code First: Girls chapter in Manchester. It
 was here that I was taught by [@echesters](https://twitter.com/echesters) that you can have a serious career while also being
