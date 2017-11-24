@@ -15,7 +15,7 @@ In its most succinct form, my education history looks like this:
 - 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
 
-#### Fun facts, in reverse chronological order
+### Fun facts, in reverse chronological order
 
 My master's thesis was based on privacy in cryptocurrencies, and resulted in a paper on HD key management techniques and
 one introducing a ring signature mixer for ethereum. This included implementing one out of many proofs ([here](https://github.com/rmercer93/gk-zerocoin)). It also led me to start 
@@ -30,8 +30,8 @@ scholarship to cover my entire MSc tuition fees. I miraculously was offered both
 was then immediately introduced to assembly and realised HTML isn't actually even a programming language, and I have been
 fully submerged in the world of computer science ever since :)
 
-Fun facts about my education start with that I went to an all boys' school for my
-final year of high school, because my school didn't teach physics or further maths and I needed them to get into uni.
+Also I went to an all boys' school for my final year of high school, because my school didn't teach physics or 
+further maths and I needed them to get into uni.
 My BSc transcript is pretty eclectic but I was somehow awarded an academic achievement scholarship every semester. My 
 bachelor's project was on random number generation. I used an online C compiler, it was so much fun.
 
@@ -40,7 +40,7 @@ bachelor's project was on random number generation. I used an online C compiler,
 
 I've taught the following:
 - CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
-- CFG London general summer intensive - HTML/CSS/JavaScript/python (summer 2017)
+- CFG London general summer intensive - HTML/CSS/JavaScript/python - at Google's Campus London (summer 2017)
 - Machine Learning - at Aarhus University (fall 2017)
 
 
