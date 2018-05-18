@@ -30,9 +30,9 @@ further maths and I needed them to get into uni.
 ## Teaching
 
 I've taught the following:
-- CFG beginners' web development - HTML/CSS, some JavaScript - at UCL (spring/summer 2017)
-- CFG London general summer intensive - HTML/CSS/JavaScript/python - at Google's Campus London (summer 2017)
-- Machine Learning - at Aarhus University (fall 2017)
+- CFG beginners' web development - HTML/CSS, some JavaScript - UCL, spring/summer 2017
+- CFG London general summer intensive - HTML/CSS/JavaScript/python - Google's Campus London, summer 2017
+- Machine Learning - Aarhus University, fall 2017
 
 ## Research
 
