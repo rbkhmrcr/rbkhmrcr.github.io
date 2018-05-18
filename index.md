@@ -15,7 +15,7 @@ In its most succinct form, my education history looks like this:
 
 ### Fun facts, in reverse chronological order
 
-- [Here](https://www.youtube.com/watch?v=ZmVzRmBVzWk&t=17423s) is a talk I gave for MIT bitcoin expo.
+- [Here](https://www.youtube.com/watch?v=ZmVzRmBVzWk&t=17423s) is a talk I gave at MIT bitcoin expo.
 - My master's thesis was based on privacy in cryptocurrencies. This led me to start 
 supervising [my favourite intern](https://github.com/jakegsy/) for the Ethereum Foundation, and implementing 
 [other](https://github.com/rmercer93/p2prng) fun [things](https://github.com/rmercer93/BLS2)
