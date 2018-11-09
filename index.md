@@ -4,6 +4,15 @@
 
 This is me and some garlic bread.
 
+## Research
+
+My public research includes the following:
+- 2017: [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) with Nicolas T. Courtois @ ICISSP.
+- 2017: [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) with Matthew Di Ferrante @ EuroS&P .
+- 2018: [Möbius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881) with Sarah Meiklejohn @ PETS.
+- 2018: [QuisQuis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990) with Prastudy Fauzi, Sarah Meiklejohn, Claudio Orlandi (preprint).
+
+
 ## Education
 
 I'm currently a PhD student under [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). I started in August 2017.
@@ -12,6 +21,7 @@ In its most succinct form, my education history looks like this:
 - 2012 - 2015: BSc in mathematics at the University of Manchester,
 - 2015 - 2016: MSc in infosec at UCL,
 - 2017 - now: PhD in cryptography at Aarhus University.
+
 
 ### Misc bulletpoints (My education history in a less succinct form)
 
@@ -32,15 +42,6 @@ I've taught the following:
 - CFG London general summer intensive - HTML/CSS/JavaScript/python - Google's Campus London, summer 2017
 - Machine Learning - Aarhus University, fall 2017
 - Distributed systems and Security (x2) - Aarhus University, fall 2018
-
-## Research
-
-My public research includes the following:
-- 2017: [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) with Nicolas T. Courtois @ ICISSP.
-- 2017: [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) with Matthew Di Ferrante @ EuroS&P .
-- 2018: [Möbius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881) with Sarah Meiklejohn @ PETS.
-- 2018: [QuisQuis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990) with Prastudy Fauzi, Sarah Meiklejohn Claudio Orlandi (preprint).
-
 
 
 
