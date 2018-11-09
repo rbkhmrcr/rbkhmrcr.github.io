@@ -23,7 +23,7 @@ In its most succinct form, my education history looks like this:
 - 2017 - now: PhD in cryptography at Aarhus University.
 
 
-### Misc bulletpoints (My education history in a less succinct form)
+## Misc bulletpoints (/My education history in a less succinct form)
 
 - [Here](https://www.youtube.com/watch?v=ZmVzRmBVzWk&t=17423s) is a talk I gave at the 2018 MIT bitcoin expo. I also gave a similar (but longer) talk at Stanford's BPASE (also in 2018).
 - My master's thesis was based on privacy in cryptocurrencies. This led me to start 
@@ -42,6 +42,3 @@ I've taught the following:
 - CFG London general summer intensive - HTML/CSS/JavaScript/python - Google's Campus London, summer 2017
 - Machine Learning - Aarhus University, fall 2017
 - Distributed systems and Security (x2) - Aarhus University, fall 2018
-
-
-
