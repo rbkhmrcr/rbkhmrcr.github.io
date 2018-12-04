@@ -12,7 +12,7 @@ This is me and some garlic bread.
 supervising [my favourite ever intern](https://github.com/jakegsy/) for the Ethereum Foundation.
 - My introduction to programming was in the third year of my BSc when I started a [CFG](https://www.codefirstgirls.org.uk/) chapter in Manchester. [@echesters](https://twitter.com/echesters) taught us Ruby and also that you can have a very serious career without being a very serious human. I thought I'd mastered programming and so applied for an MSc at UCL, where I was then immediately introduced to malware analysis in assembly. Someone put me in vi (not vim!!!) and I spent I dont know how long trying to delete backspace characters by hitting backspace.
 - My BSc transcript is pretty eclectic but I was somehow awarded an academic achievement scholarship every semester. My 
-bachelor's project was on random number generation and statistical analysis of 'random' 'strings'. I used an online C compiler on the university windows machines and ued word to type my C code?? It was so much fun!
+bachelor's project was on random number generation and statistical analysis of 'random' 'strings'. I used an online C compiler on the university windows machines and used word to type my C code. It was so much fun!
 - I went to an all boys' school for my final year of high school, because my school didn't teach physics or 
 further maths and I needed them to get into uni (also for enjoyment of life). I can't even remember how many times I was asked to leave the premises (lol).
 
