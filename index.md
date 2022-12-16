@@ -1,45 +1,59 @@
 ## Hello
 
-<img src="/garlicbread.jpg" width="300">
+As of January 2023, I'm a PhD student working with IBM Research Zürich.  From
+2020 - 2022 I was a Privacy Engineer at Apple, and before that I was
+a cryptography engineer at Mina, working mostly on getting the necessary
+cryptography implemented on the Ledger hardware wallet with its generous 2kB of
+stack :) I also working with UNICEF Office of Innovation on privacy preserving
+machine learning. Before that, from 2017 - 2018 I was a student at Aarhus
+University, working with [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and
+[Ivan Damgård](http://www.daimi.au.dk/~ivan/).
 
-This is me and some garlic bread.
-
-
-## Miscellaneous bulletpoints
-
-- [Here](https://www.youtube.com/watch?v=ZmVzRmBVzWk&t=17423s) is my talk from the 2018 MIT bitcoin expo. I also gave a similar (but longer) talk at Stanford's BPASE (also in 2018).
-- My master's thesis was based on privacy in cryptocurrencies. This led me to start 
-supervising [my favourite ever intern](https://github.com/jakegsy/) for the Ethereum Foundation.
-- My introduction to programming was in the third year of my BSc when I started a [CFG](https://www.codefirstgirls.org.uk/) chapter in Manchester. [@echesters](https://twitter.com/echesters) taught us Ruby and also that you can have a very serious career without being a very serious human. I thought I'd mastered programming and so applied for an MSc at UCL, where I was then immediately introduced to malware analysis in assembly. Someone put me in vi (not vim!!!) and I spent I dont know how long trying to delete backspace characters by hitting backspace.
-- My BSc transcript is pretty eclectic but I was somehow awarded an academic achievement scholarship every semester. My 
-bachelor's project was on random number generation and statistical analysis of 'random' 'strings'. I used an online C compiler on the university windows machines and used word to type my C code. It was so much fun!
-- I went to an all boys' school for my final year of high school, because my school didn't teach physics or 
-further maths and I needed them to get into uni (also for enjoyment of life). I can't even remember how many times I was asked to leave the premises (lol).
-
-
-## Research
-
-My public research includes the following:
-- 2017: [Stealth Address and Key Management Techniques in Blockchain Systems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566) with Nicolas T. Courtois @ ICISSP.
-- 2017: [Poster: Towards Blockchain Transaction Privacy](https://www.clearmatics.com/wp-content/uploads/2017/06/IEEE-Presentation.pdf) with Matthew Di Ferrante @ EuroS&P.
-- 2018: [Möbius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881) with Sarah Meiklejohn @ PETS.
-- 2018: [QuisQuis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990) with Prastudy Fauzi, Sarah Meiklejohn, Claudio Orlandi (preprint).
-
-
-## Education
-
-I'm currently a PhD student under [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and [Ivan Damgård](http://www.daimi.au.dk/~ivan/). I started in August 2017.
-
-In its most succinct form, my education history looks like this:
-- 2012 - 2015: BSc in mathematics at the University of Manchester,
-- 2015 - 2016: MSc in infosec at UCL,
-- 2017 - now: PhD in cryptography at Aarhus University.
+## Publications
+- Elizabeth C Crites, Mary Maller, Sarah Meiklejohn, and **Rebekah Mercer**.
+  Reputable list curation from decentralized voting. _Proceedings on Privacy
+  Enhancing Technologies_, 4:297– 320, 2020. [Cryptology ePrint
+  2020/709](https://eprint.iacr.org/2020/709).
+- Ivan Damgård, Helene Haagh, **Rebekah Mercer**, Anca Nitulescu, Claudio
+  Orlandi, and Sophia Yakoubov. Stronger security and constructions of
+  multi-designated verifier signatures. In _Theory of Cryptography Conference_,
+  pages 229–260.  Springer, 2020.  [Cryptology ePrint
+  2019/1153](https://eprint.iacr.org/2019/1153).
+- Prastudy Fauzi, Sarah Meiklejohn, **Rebekah Mercer**, and Claudio Orlandi.
+  Quisquis: A new design for anonymous cryptocurrencies. In _ASIACRYPT 2019
+  International conference on the theory and application of cryptology and
+  information security_, pages 649–678. Springer, 2019. [Cryptology ePrint
+  2018/990](https://eprint.iacr.org/2018/990).
+- Sarah Meiklejohn and **Rebekah Mercer**. Möbius: Trustless tumbling for
+  transaction privacy. _Proceedings on Privacy Enhancing Technologies_,
+  2:105–121, 2018. [Cryptology ePrint 2017/881](Cryptology ePrint 2017/881).
+- Nicolas T Courtois and **Rebekah Mercer**. Stealth address and key management
+  techniques in blockchain systems.  In _ICISSP 2017 - Proceedings of the 3rd
+  International Conference on Information Systems Security and Privacy_, pages
+  559–566, 2017. [Proceedings
+  version](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566).
 
 
 ## Teaching
+- [Distributed Systems and
+  Security](https://kursuskatalog.au.dk/en/course/114560/Distributed-Systems-and-Security)
+  - Aarhus University, taught autumn 2018, 280 hours
+- [Machine
+  Learning](https://kursuskatalog.au.dk/en/course/115207/Machine-Learning)
+  - Aarhus University, autumn 2017, 140 hours
+- [Code First : Girls](https://codefirstgirls.com/) London free general summer
+  intensive - HTML/CSS/JavaScript/python - Google Campus London, summer 2017
+- [Code First
+  : Girls](https://codefirstgirls.com//courses/classes/uni-kickstarter/)
+  beginners' free web development - HTML/CSS, some JavaScript - UCL,
+  spring/summer 2017
 
-I've taught the following:
-- CFG beginners' web development - HTML/CSS, some JavaScript - UCL, spring/summer 2017
-- CFG London general summer intensive - HTML/CSS/JavaScript/python - Google's Campus London, summer 2017
-- Machine Learning - Aarhus University, fall 2017
-- Distributed systems and Security (x2) - Aarhus University, fall 2018
+## Recorded talks
+- [SNARKs <3 Hash Functions : Hashing to Elliptic Curves inside
+  SNARKs](https://www.youtube.com/watch?v=qWRUPzm3qPY) : ZKSummit 4, October
+  2019
+- [A Guided Tour Through the World of
+  Snarks](https://www.youtube.com/watch?v=KY7If_GjZvc) : MIT Bitcoin Expo,
+  March 2019
+- [Möbius](https://www.youtube.com/watch?v=y4hYPX3pouU) : BPASE '18, January
+  2018
