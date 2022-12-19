@@ -13,31 +13,39 @@ University, working with [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and
 - Elizabeth C Crites, Mary Maller, Sarah Meiklejohn, and **Rebekah Mercer**.
   Reputable list curation from decentralized voting. _Proceedings on Privacy
   Enhancing Technologies_, 4:297– 320, 2020.
-  Proceedings version : [PETS20](https://petsymposium.org/popets/2020/popets-2020-0074.php),
-  eprint version : [Cryptology ePrint
-  2020/709](https://eprint.iacr.org/2020/709).
+  - Proceedings version
+    : [PETS20](https://petsymposium.org/popets/2020/popets-2020-0074.php),
+  - eprint version : [Cryptology ePrint
+    2020/709](https://eprint.iacr.org/2020/709).
 - Ivan Damgård, Helene Haagh, **Rebekah Mercer**, Anca Nitulescu, Claudio
   Orlandi, and Sophia Yakoubov. Stronger security and constructions of
   multi-designated verifier signatures. In _Theory of Cryptography Conference_,
   pages 229–260.  Springer, 2020.
-  Proceedings version : [TCC20](https://link.springer.com/book/10.1007/978-3-030-64378-2), 
-  eprint version : [Cryptology ePrint
-  2019/1153](https://eprint.iacr.org/2019/1153),
-  talk by Sophia at [TCC20](https://www.youtube.com/watch?v=tJqK9zJ10iA).
+  - Proceedings
+    : [TCC20](https://link.springer.com/book/10.1007/978-3-030-64378-2), 
+  - eprint : [Cryptology ePrint 2019/1153](https://eprint.iacr.org/2019/1153),
+  - Talk by Sophia at [TCC20](https://www.youtube.com/watch?v=tJqK9zJ10iA).
 - Prastudy Fauzi, Sarah Meiklejohn, **Rebekah Mercer**, and Claudio Orlandi.
   Quisquis: A new design for anonymous cryptocurrencies. In _ASIACRYPT
   International conference on the theory and application of cryptology and
   information security_, pages 649–678. Springer, 2019. 
-  Proceedings version : [ASIACRYPT19](https://www.springerprofessional.de/quisquis-a-new-design-for-anonymous-cryptocurrencies/17426784), eprint version : [Cryptology ePrint
-  2018/990](https://eprint.iacr.org/2018/990), talk by Prastudy at [SBC19](https://www.youtube.com/watch?v=QAqBRbbbMSw).
+  - Proceedings
+    : [ASIACRYPT19](https://www.springerprofessional.de/quisquis-a-new-design-for-anonymous-cryptocurrencies/17426784),
+  - eprint : [Cryptology ePrint 2018/990](https://eprint.iacr.org/2018/990), 
+  - Talk by Prastudy at [SBC19](https://www.youtube.com/watch?v=QAqBRbbbMSw).
 - Sarah Meiklejohn and **Rebekah Mercer**. Möbius: Trustless tumbling for
   transaction privacy. _Proceedings on Privacy Enhancing Technologies_,
-  2:105–121, 2018. Proceedings version : [PETS18](https://petsymposium.org/popets/2018/popets-2018-0015.php), 
-  eprint version : [Cryptology ePrint 2017/881](https://eprint.iacr.org/2017/881), talk at [BPASE18](https://www.youtube.com/watch?v=y4hYPX3pouU).
+  2:105–121, 2018. 
+  - Proceedings
+    : [PETS18](https://petsymposium.org/popets/2018/popets-2018-0015.php), 
+  - eprint : [Cryptology ePrint 2017/881](https://eprint.iacr.org/2017/881), 
+  - Talk at [BPASE18](https://www.youtube.com/watch?v=y4hYPX3pouU).
 - Nicolas T Courtois and **Rebekah Mercer**. Stealth address and key management
   techniques in blockchain systems.  In _ICISSP 2017 - Proceedings of the 3rd
   International Conference on Information Systems Security and Privacy_, pages
-  559–566, 2017. Proceedings version : [ICISSP17](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566).
+  559–566, 2017. 
+  - Proceedings
+    : [ICISSP17](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006270005590566).
 
 
 ## Teaching
