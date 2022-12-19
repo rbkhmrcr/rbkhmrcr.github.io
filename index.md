@@ -15,6 +15,8 @@ University, working with [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and
   Enhancing Technologies_,
   [PETS20](https://petsymposium.org/popets/2020/popets-2020-0074.php).
   [Cryptology ePrint 2020/709](https://eprint.iacr.org/2020/709).
+  - Talk by Elizabeth at [PETS20](https://www.youtube.com/watch?v=wzP9Sd9SZnE)
+    and by Mary at [TPBC20](https://www.youtube.com/watch?v=s0ZFJygC4Bw).
 - Ivan Damgård, Helene Haagh, **Rebekah Mercer**, Anca Nitulescu, Claudio
   Orlandi, and Sophia Yakoubov. Stronger security and constructions of
   multi-designated verifier signatures. In _Theory of Cryptography Conference_,
