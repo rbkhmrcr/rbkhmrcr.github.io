@@ -26,7 +26,7 @@ University, working with [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and
   2018/990](https://eprint.iacr.org/2018/990).
 - Sarah Meiklejohn and **Rebekah Mercer**. Möbius: Trustless tumbling for
   transaction privacy. _Proceedings on Privacy Enhancing Technologies_,
-  2:105–121, 2018. [Cryptology ePrint 2017/881](Cryptology ePrint 2017/881).
+  2:105–121, 2018. [Cryptology ePrint 2017/881](https://eprint.iacr.org/2017/881).
 - Nicolas T Courtois and **Rebekah Mercer**. Stealth address and key management
   techniques in blockchain systems.  In _ICISSP 2017 - Proceedings of the 3rd
   International Conference on Information Systems Security and Privacy_, pages
