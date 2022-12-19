@@ -12,21 +12,25 @@ University, working with [Claudio Orlandi](http://www.cs.au.dk/~orlandi/) and
 ## Publications
 - Elizabeth C Crites, Mary Maller, Sarah Meiklejohn, and **Rebekah Mercer**.
   Reputable list curation from decentralized voting. _Proceedings on Privacy
-  Enhancing Technologies_, 4:297– 320, 2020. [Cryptology ePrint
+  Enhancing Technologies_, 4:297– 320, 2020.
+  [PETS20](https://petsymposium.org/popets/2020/popets-2020-0074.php),
+  [Cryptology ePrint
   2020/709](https://eprint.iacr.org/2020/709).
 - Ivan Damgård, Helene Haagh, **Rebekah Mercer**, Anca Nitulescu, Claudio
   Orlandi, and Sophia Yakoubov. Stronger security and constructions of
   multi-designated verifier signatures. In _Theory of Cryptography Conference_,
-  pages 229–260.  Springer, 2020.  [Cryptology ePrint
-  2019/1153](https://eprint.iacr.org/2019/1153).
+  pages 229–260.  Springer, 2020.
+  [TCC20](https://link.springer.com/book/10.1007/978-3-030-64378-2), [Cryptology ePrint
+  2019/1153](https://eprint.iacr.org/2019/1153),
+  [talk by Sophia at TCC20](https://www.youtube.com/watch?v=tJqK9zJ10iA).
 - Prastudy Fauzi, Sarah Meiklejohn, **Rebekah Mercer**, and Claudio Orlandi.
-  Quisquis: A new design for anonymous cryptocurrencies. In _ASIACRYPT 2019
+  Quisquis: A new design for anonymous cryptocurrencies. In _ASIACRYPT
   International conference on the theory and application of cryptology and
-  information security_, pages 649–678. Springer, 2019. [Cryptology ePrint
-  2018/990](https://eprint.iacr.org/2018/990).
+  information security_, pages 649–678. Springer, 2019. [ASIACRYPT19](https://www.springerprofessional.de/quisquis-a-new-design-for-anonymous-cryptocurrencies/17426784), [Cryptology ePrint
+  2018/990](https://eprint.iacr.org/2018/990), [presentation by Prastudy at SBC19](https://www.youtube.com/watch?v=QAqBRbbbMSw).
 - Sarah Meiklejohn and **Rebekah Mercer**. Möbius: Trustless tumbling for
   transaction privacy. _Proceedings on Privacy Enhancing Technologies_,
-  2:105–121, 2018. [Cryptology ePrint 2017/881](https://eprint.iacr.org/2017/881).
+  2:105–121, 2018. [PETS18](https://petsymposium.org/popets/2018/popets-2018-0015.php), [Cryptology ePrint 2017/881](https://eprint.iacr.org/2017/881), [presentation at BPASE18](https://www.youtube.com/watch?v=y4hYPX3pouU).
 - Nicolas T Courtois and **Rebekah Mercer**. Stealth address and key management
   techniques in blockchain systems.  In _ICISSP 2017 - Proceedings of the 3rd
   International Conference on Information Systems Security and Privacy_, pages
