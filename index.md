@@ -1,7 +1,11 @@
 ## Hello
 
-As of January 2023, I'm a PhD student working with IBM Research Zürich.  From
-2020 - 2022 I was a Privacy Engineer at Apple, and before that I was
+As of January 2023, I'm a PhD student in the applied cryptography department of 
+ETH Zürich, working with [Kenny Paterson](https://www.isg.rhul.ac.uk/~kp/) and 
+[Elli
+Androulaki](https://researcher.ibm.com/researcher/view.php?person=zurich-LLI) and 
+Kaoutar Elkhiyaoui at IBM Research 
+Zürich! From 2020 - 2022 I was a Privacy Engineer at Apple, and before that I was
 a cryptography engineer at Mina, working mostly on getting the necessary
 cryptography implemented on the Ledger hardware wallet with its generous 2kB of
 stack :) In 2018 I worked with UNICEF Office of Innovation on privacy
